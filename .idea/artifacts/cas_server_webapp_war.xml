@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cas-server-webapp:war">
+    <output-path>$PROJECT_DIR$/overlays/org.jasig.cas.cas-server-webapp-4.0.2/META-INF/maven/org.jasig.cas/cas-server-webapp/target</output-path>
+    <root id="archive" name="cas-server-webapp-4.0.2.war">
+      <element id="artifact" artifact-name="cas-server-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

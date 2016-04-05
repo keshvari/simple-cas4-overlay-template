@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cas4-overlay:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cas.war">
+      <element id="artifact" artifact-name="cas4-overlay:war exploded" />
+    </root>
+  </artifact>
+</component>
